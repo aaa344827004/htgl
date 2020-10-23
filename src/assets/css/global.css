@@ -6,3 +6,14 @@ body,
     padding: 0;
     min-width: 1366px;
 }
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+.el-table{
+    margin-top: 15px;
+    font-size: 14px;
+}
+.el-pagination{
+    margin-top: 15px;
+}
